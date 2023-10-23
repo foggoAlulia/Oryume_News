@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Zasline;
+    src: url(Zasline.otf);
+  }
+
+body {background-image: url(couverture_FOND.png);
+    font-family: Zasline;}
