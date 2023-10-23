@@ -25,3 +25,8 @@ body {background-image: url(couverture_FOND.png);
    /* Set a background color that will be displayed
    while the background image is loading */
    background-color: #464646;}
+
+   h1 {color: aliceblue;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: 75px;}
